@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Surefire suite" duration-ms="41" started-at="2018-06-11T04:52:32Z" finished-at="2018-06-11T04:52:32Z">
+    <groups>
+    </groups>
+    <test name="Surefire test" duration-ms="41" started-at="2018-06-11T04:52:32Z" finished-at="2018-06-11T04:52:32Z">
+      <class name="adb.sample.api.AdbTest">
+        <test-method status="PASS" signature="dummy()[pri:0, instance:adb.sample.api.AdbTest@13969fbe]" name="dummy" duration-ms="12" started-at="2018-06-10T21:52:32Z" finished-at="2018-06-10T21:52:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- dummy -->
+        <test-method status="PASS" signature="testHello()[pri:0, instance:adb.sample.api.AdbTest@13969fbe]" name="testHello" duration-ms="6" started-at="2018-06-10T21:52:32Z" finished-at="2018-06-10T21:52:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testHello -->
+        <test-method status="PASS" signature="testHelloWithParams()[pri:0, instance:adb.sample.api.AdbTest@13969fbe]" name="testHelloWithParams" duration-ms="1" started-at="2018-06-10T21:52:32Z" finished-at="2018-06-10T21:52:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testHelloWithParams -->
+      </class> <!-- adb.sample.api.AdbTest -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>
